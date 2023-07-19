@@ -26,16 +26,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mraditya1999&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mraditya1999&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mraditya1999&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mraditya1999&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mraditya1999&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- --- -->
-
-<!-- [![](https://visitcount.itsvg.in/api?id=mraditya1999&icon=1&color=4)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
