@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on <a href="https://realtime-pizza-tracker.onrender.com" target="_blank">Realtime Pizza App</a>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ay5480620@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I Think I Am Funny**
 
 ## 🌐 Socials:
 
