@@ -3,11 +3,11 @@
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on <a href="https://realtime-pizza-tracker.onrender.com" target="_blank">Realtime Pizza App</a>
+- 🔭 I’m currently working on <a href="https://adityayadav.live" target="_blank">Portfolio</a>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **ay5480620@gmail.com**
 
