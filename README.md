@@ -3,7 +3,7 @@
 <h3 align="center">I Enjoy Creating Things That Live On The Internet 😉</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on <a href="https://adityayadav.live" target="_blank">Portfolio</a>
+- 🔭 I’m currently working on <a href="https://adityayadav-dev.netlify.app" target="_blank">Portfolio</a>
 
 - 🌱 I’m currently learning **MERN**
 
